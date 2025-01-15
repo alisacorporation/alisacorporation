@@ -1,29 +1,29 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Aigars!
 
 ## 💡 About Me
-I am a passionate [Your Profession or Field, e.g., Software Engineer, Data Scientist] with expertise in [Your Key Skills or Interests, e.g., Python, Django, Web Development]. I enjoy building impactful projects and sharing knowledge within the community.
+I am a passionate Software Engineer with expertise in Web Development, CLI and desktop applications. I enjoy building impactful projects and sharing knowledge within the community.
 
-- 🎓 Education: [Your Degree, e.g., B.Sc. in Computer Science]
-- 🌍 Location: [Your Location, e.g., New York, USA]
-- 💼 Current Role: [Your Current Job Title, e.g., Backend Developer at XYZ Inc.]
-- 💻 Portfolio: [Your Portfolio URL, if available]
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
+- 🎓 Education: Computer Science - Transport and Telecommunication Institute (unfinished - 2 years)
+- 🌍 Location: RIX
+- 💼 Current Role: Unemployed
+- 💻 Portfolio: Soon..
+- 📫 How to reach me: I will reach you!
 
 ---
 
 ## 🛠️ Tech Stack
 Here are the tools and technologies I work with regularly:
 
-- **Languages:** [Languages, e.g., Python, JavaScript, C++]
-- **Frameworks & Libraries:** [Frameworks, e.g., Django, React]
-- **Databases:** [Databases, e.g., PostgreSQL, MySQL]
-- **Tools:** [Tools, e.g., Docker, Git]
-
+- **Languages:** PHP, HTML, CSS, Javascript, Java, C++, Bash
+- **Frameworks & Libraries:** CodeIgniter, Vue JS, Qt
+- **Databases:** MySQL (MariaDB)
+- **Tools:** Docker, Git, NGINX, PHP-FPM
+- **IDE**: Jetbrains (PhpStorm, CLion, IntelliJ, Webstorm), VSCode, Cursor, VIM
+- **OS**: Linux (Manjaro)
 ---
 
 ## 🏆 Achievements
-- 🎉 Contributed to [Open Source Project, if applicable]
-- 🏅 Certifications: [Certifications, e.g., AWS Certified Developer]
+- 🏅 Certifications: I wish..
 
 ---
 
@@ -44,14 +44,14 @@ Here are some projects I am particularly proud of:
 
 ## 🌟 Fun Facts
 - 🤖 I love learning about [Interesting Topics, e.g., AI and Machine Learning].
-- 📖 In my free time, I enjoy [Your Hobbies, e.g., reading tech blogs or playing chess].
+- 📖 In my free time, I enjoy listening music, painting & enjoy time with children.
 
 ---
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisacorporation&show_icons=true&hide=issues&hide_title=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisacorporation&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisacorporation&layout=donut)]
 ---
 
 Feel free to explore my repositories, and don't hesitate to reach out!
