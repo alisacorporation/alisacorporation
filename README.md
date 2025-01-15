@@ -49,9 +49,9 @@ Here are some projects I am particularly proud of:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisacorporation&show_icons=true&hide=issues&hide_title=true&count_private=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisacorporation&show_icons=true&hide=issues&hide_title=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisacorporation&layout=donut)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisacorporation&layout=donut)
 ---
 
 Feel free to explore my repositories, and don't hesitate to reach out!
