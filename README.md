@@ -27,24 +27,9 @@ Here are the tools and technologies I work with regularly:
 
 ---
 
-## 📚 Noteworthy Projects
-Here are some projects I am particularly proud of:
-
-### Project 1: [Project Name]
-**Description:** [Brief description of the project].  
-**Tech Stack:** [Technologies used].  
-**Repo:** [GitHub link].
-
-### Project 2: [Project Name]
-**Description:** [Brief description of the project].  
-**Tech Stack:** [Technologies used].  
-**Repo:** [GitHub link].
-
----
-
 ## 🌟 Fun Facts
-- 🤖 I love learning about [Interesting Topics, e.g., AI and Machine Learning].
-- 📖 In my free time, I enjoy listening music, painting & enjoy time with children.
+- 🤖 I love learning about innovative technologies, programming frameworks, and creative problem-solving techniques.
+- 📖 In my free time, I enjoy exploring new coding challenges, enhancing my skills in CodeIgniter 4 and C++, and delving into server architecture and optimization, listening music, painting and enjoy time with my daughter.
 
 ---
 
