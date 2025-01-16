@@ -3,11 +3,11 @@
 ## 💡 About Me
 I am a passionate Software Engineer with expertise in Web Development, CLI and desktop applications. I enjoy building impactful projects and sharing knowledge within the community.
 
-- 🎓 Education: Computer Science - Transport and Telecommunication Institute (unfinished - 2 years)
+- 🎓 Education: Computer Science - Transport and Telecommunication Institute (finished only 2 years) [2018-2020]
 - 🌍 Location: RIX
-- 💼 Current Role: Unemployed
-- 💻 Portfolio: Soon..
-- 📫 How to reach me: I will reach you!
+- 💼 Current Role: Software Engineer (unemployed)
+- 💻 Portfolio: Maybe Soon..
+- 📫 How to reach me: alisa.corporation[at]protonmail[dot]com
 
 ---
 
@@ -15,7 +15,7 @@ I am a passionate Software Engineer with expertise in Web Development, CLI and d
 Here are the tools and technologies I work with regularly:
 
 - **Languages:** PHP, HTML, CSS, Javascript, Java, C++, Bash
-- **Frameworks & Libraries:** CodeIgniter, Vue JS, Qt
+- **Frameworks & Libraries:** CodeIgniter, Vue JS, Qt, Curl, Axios
 - **Databases:** MySQL (MariaDB)
 - **Tools:** Docker, Git, NGINX, PHP-FPM
 - **IDE**: Jetbrains (PhpStorm, CLion, IntelliJ, Webstorm), VSCode, Cursor, VIM
@@ -23,8 +23,7 @@ Here are the tools and technologies I work with regularly:
 ---
 
 ## 🏆 Achievements
-- 🏅 Certifications: I wish..
-
+- 🏅 Certifications: LinkedIn 28+ various courses watched (but do you think I remember it all?)
 ---
 
 ## 🌟 Fun Facts
