@@ -28,7 +28,7 @@ Here are the tools and technologies I work with regularly:
 
 ## 🌟 Fun Facts
 - 🤖 I love learning about innovative technologies, programming frameworks, and creative problem-solving techniques.
-- 📖 In my free time, I enjoy exploring new coding challenges, enhancing my skills in CodeIgniter 4 and C++, and delving into server architecture and optimization, listening music, painting and enjoy time with my daughter.
+- 📖 In my free time, I enjoy exploring new coding challenges, enhancing my skills in CodeIgniter 4 and C++, and delving into server architecture and optimization, ride a bike, listening music, painting and enjoy time with my daughter.
 
 ---
 
