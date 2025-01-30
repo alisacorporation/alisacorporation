@@ -5,8 +5,8 @@ I am a passionate Software Engineer with expertise in Web Development, CLI and d
 
 - 🎓 Education: Computer Science - Transport and Telecommunication Institute (finished only 2 years) [2018-2020]
 - 🌍 Location: RIX
-- 💼 Current Role: Software Engineer (unemployed)
-- 💻 Portfolio: Maybe Soon..
+- 💼 Current Role: Software Engineer
+- 💻 Website: undefined
 - 📫 How to reach me: alisa.corporation[at]protonmail[dot]com
 
 ---
@@ -23,7 +23,7 @@ Here are the tools and technologies I work with regularly:
 ---
 
 ## 🏆 Achievements
-- 🏅 Certifications: LinkedIn 28+ various courses watched (but do you think I remember it all?)
+- 🏅 Certifications: LinkedIn 28+ various courses
 ---
 
 ## 🌟 Fun Facts
