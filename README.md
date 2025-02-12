@@ -6,7 +6,7 @@ I am a passionate Software Engineer with expertise in Web Development, CLI and d
 - 🎓 Education: Computer Science - Transport and Telecommunication Institute (finished only 2 years) [2018-2020]
 - 🌍 Location: RIX
 - 💼 Current Role: Software Engineer
-- 💻 Website: undefined
+- 💻 Website: [Enter](https://xeon.lv/)
 - 📫 How to reach me: alisa.corporation[at]protonmail[dot]com
 
 ---
