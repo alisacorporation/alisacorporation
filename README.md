@@ -3,11 +3,10 @@
 ## 💡 About Me
 I am a passionate Software Engineer with expertise in Web Development, CLI and desktop applications. I enjoy building impactful projects and sharing knowledge within the community.
 
-- 🎓 Education: Computer Science - Transport and Telecommunication Institute (finished only 2 years) [2018-2020]
+- 🎓 Education: Computer Science - Transport and Telecommunication Institute (ungraduated) [2018-2020]
 - 🌍 Location: RIX
-- 💼 Current Role: Software Engineer
+- 💼 Current Role: -
 - 💻 Website: [Visit](https://xeon.lv/)
-- 📫 How to reach me: alisa.corporation[at]protonmail[dot]com
 
 ---
 
